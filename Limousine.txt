@@ -1,2 +1,4 @@
 Add List View
 Add Form View
+Add Car Model
+Add Rental Model
